@@ -6,8 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-
-**Grassetto e pure _corsivo_**.
+Federico Biancardi 12:39
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
