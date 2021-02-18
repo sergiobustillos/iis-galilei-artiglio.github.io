@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Federico Biancardi 12:39
+Federico Biancardi 12:39  sergio bustillos 12.50
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
