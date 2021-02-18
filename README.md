@@ -6,7 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Federico Biancardi 12:27
 
 **Grassetto e pure _corsivo_**.
 
